@@ -1,0 +1,83 @@
+@charset "utf-8";
+img {
+	width: 200px;
+	height: auto;
+	margin: 0;
+	margin-left:60px;
+	display: inline-block;
+}
+
+#4 {
+   text-align:center;
+	
+}
+.rojofondo {
+	background-color: #FBEA02 
+}
+.producto  {
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12) , 0 1px 2px rgba(0,0,0,0.24);
+	background-color: white;
+	border-radius: 4px;
+	text-align: center;
+    width: 150px;
+	align-content: center;
+	float: left;
+}
+form {
+	justify-content: center;
+}
+#agregar{
+	background-color: red;
+	font color: white;
+}
+.producto img {
+	margin-left: 0px;
+	width: 150px;
+}
+
+#5 {
+	float:left;
+	margin-left:0px;
+
+	
+}
+.produc11{
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12) , 0 1px 2px rgba(0,0,0,0.24);
+	background-color: white;
+	border-radius: 4px;
+	text-align: center;
+    width: 150px;
+	align-content: center;
+	float: left;
+}
+.produ22o{
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12) , 0 1px 2px rgba(0,0,0,0.24);
+	background-color: white;
+	border-radius: 4px;
+	text-align: center;
+    width: 150px;
+	
+	float: left;
+
+}
+.produc33{
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12) , 0 1px 2px rgba(0,0,0,0.24);
+	background-color: white;
+	border-radius: 4px;
+	text-align: center;
+    width: 150px;
+	align-content: center;
+	float: left;
+}
+.produc11 img{
+	margin-left: 0px;
+	width: 150px;
+}
+.produ22o img{
+	margin-left: 0px;
+	width: 150px;
+}
+.produc33 img {
+	margin-left: 0px;
+	width: 150px;
+}
